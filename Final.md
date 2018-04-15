@@ -14,4 +14,8 @@ In this portfolio I want to explore the key question of this course "What happen
 ### Where to find the Modules
 All of the modules and the associated work can be found at https://github.com/margaretrussell/hist3812-example-repo-for-artifact or https://github.com/KurtGrunsky/hist3812-example-repo-for-artifact
 
-# Key Question
+# What happens to history as it gets digitized?
+
+"What happens to history as it gets digitized? That is, what does history look like, what happens to our materials, and the stories we tell or the questions we ask, as we abstract further and further away from ‘In Real Life’? What does ‘digital history’ really mean?"
+
+On the first day of class when Dr. Graham explained the central focus of this course how it 
